@@ -7,8 +7,9 @@ namespace Test_GITHUB
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("boom dia");
+            
             Console.WriteLine("como vc esta hoje");
+            Console.WriteLine("tenha um boom dia");
         }
     }
 }
